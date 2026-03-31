@@ -1,1 +1,2 @@
 This is a line of text in the file from dev branch.
+This is a modification from master branch.
