@@ -1,3 +1,6 @@
 This is a line of text in the file from dev branch.
 This is a modification from dev branch.
 This is a modification from master branch.
+
+This is another line of text in the file from dev branch.
+This is another modification from dev branch.
